@@ -1,9 +1,8 @@
-# EDA-Video-game-sales
-Data analysis on the dataset video game sales.
+### EDA-Video-game-sales
 
 Hi,
 
-this is my first data analysis project. The dataset is from Kaggle: https://www.kaggle.com/datasets/gregorut/videogamesales
+this is my first data analysis project. The dataset is from Kaggle: [Video game sales](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
 I tried to answer the following questions:
 
